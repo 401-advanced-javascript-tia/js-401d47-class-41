@@ -9,8 +9,7 @@ React Native App
 0.0.1
 
 ## How to Use this App 
-- Scan the following QR code:
 
-![QR Code]()
+![QR Code](qr-code.png)
 
 - Follow the prompts on the buttons to choose a photo from your phone and display it on the view.
